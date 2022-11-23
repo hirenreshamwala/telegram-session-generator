@@ -177,6 +177,8 @@
                   <div class="p-4 bg-blue-100 break-all">{{ session_str }}</div>
               </div>
           </el-card>
+
+          <div class="text-center"><a href="email:hiren.reshamwala@gmail.com">hiren.reshamwala@gmail.com</a></div>
       </div>
   </div>
 </template>
