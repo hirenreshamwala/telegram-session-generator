@@ -1,6 +1,8 @@
 # telegram-session-generator
 Generate Telegram string session
 
+[demo](https://tg-session-generator.herokuapp.com/)
+
 ### usage
 ```bash
 git clone git@github.com:hirenreshamwala/telegram-session-generator.git
